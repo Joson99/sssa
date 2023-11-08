@@ -1601,6 +1601,10 @@ footer {
     max-height: 300px;
 }
 
+.user-menubar ul {
+    text-decoration: none;
+}
+
 .user-menubar li a {
     display: block;
     margin-top: 18px;
@@ -1636,7 +1640,7 @@ footer {
 
 
 
-  .side-hamburger {
+.side-hamburger {
     cursor: pointer;
     margin-top: 11px;
     margin-left: 8px;
